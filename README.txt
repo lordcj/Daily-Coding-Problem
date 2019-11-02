@@ -1,1 +1,0 @@
-Daily Coding Problem
