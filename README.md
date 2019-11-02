@@ -1,1 +1,2 @@
-# Daily Coding Problem (www.dailycodingproblem.com)
+# Daily Coding Problem
+www.dailycodingproblem.com
