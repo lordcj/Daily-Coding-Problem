@@ -41,5 +41,5 @@ For example, given the following Node class
     
     node = Node('root', Node('left', Node('left.left')), Node('right'))
     assert deserialize(serialize(node)).left.left.val == 'left.left'
-
+[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem3.cpp)
 
