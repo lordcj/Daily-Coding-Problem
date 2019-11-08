@@ -13,6 +13,7 @@ Bonus: Can you do this in one pass?
 
 [Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem1.cpp)
 
+---
 
 ## Problem 2
 This problem was asked by Uber.
