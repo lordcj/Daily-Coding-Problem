@@ -54,4 +54,17 @@ You can modify the input array in-place.
 
 [Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem4.cpp)
 
+## Problem 5
+This problem was asked by Jane Street.
+
+cons(a, b) constructs a pair, and car(pair) and cdr(pair) returns the first and last element of that pair. For example, car(cons(3, 4)) returns 3, and cdr(cons(3, 4)) returns 4.
+
+Given this implementation of cons:
+
+def cons(a, b):
+    def pair(f):
+        return f(a, b)
+    return pair
+
+[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem5.py)
 
