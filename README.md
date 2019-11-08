@@ -25,6 +25,8 @@ Follow-up: what if you can't use division?
 
 [Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem2.cpp)
 
+---
+
 ## Problem 3
 This problem was asked by Google.
 
@@ -43,6 +45,8 @@ For example, given the following Node class
     assert deserialize(serialize(node)).left.left.val == 'left.left'
 [Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem3.cpp)
 
+---
+
 ## Problem 4
 This problem was asked by Stripe.
 
@@ -53,6 +57,8 @@ For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should g
 You can modify the input array in-place.
 
 [Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem4.cpp)
+
+---
 
 ## Problem 5
 This problem was asked by Jane Street.
@@ -68,3 +74,4 @@ Given this implementation of cons:
 
 [Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem5.py)
 
+---
