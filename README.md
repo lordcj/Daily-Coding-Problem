@@ -1,5 +1,4 @@
-# Daily Coding Problem
-www.dailycodingproblem.com
+# Coding Problems
 
 
 ## Problem 1
