@@ -132,3 +132,9 @@ Follow-up: Can you do this in O(N) time and constant space?
 
 ---
 
+## Problem 10
+[TREEORD](https://www.spoj.com/problems/TREEORD/)
+
+[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/TREEORD.cpp)
+
+---
