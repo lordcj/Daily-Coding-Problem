@@ -138,3 +138,10 @@ Follow-up: Can you do this in O(N) time and constant space?
 [Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/TREEORD.cpp)
 
 ---
+
+##Problem  11
+[FIREESC](https://www.codechef.com/problems/FIRESC)
+
+[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/FIREESC.cpp)
+
+---
