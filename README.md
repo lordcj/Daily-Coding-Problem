@@ -156,6 +156,6 @@ Follow-up: Can you do this in O(N) time and constant space?
 ## Problem 13
 [CAMS](https://www.spoj.com/problems/CAM5/)
 
-[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/CAMS.cpp)
+[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/CAM5.cpp)
 
 ---
