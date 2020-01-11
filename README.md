@@ -154,12 +154,14 @@ Follow-up: Can you do this in O(N) time and constant space?
 ---
 
 ## Problem 13
-[CAMS](https://www.spoj.com/problems/CAM5/)
+[CAM5](https://www.spoj.com/problems/CAM5/)
 
 [Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/CAM5.cpp)
 
 ---
 
-##Problem 14
+## Problem 14
 [GCPC11J](https://www.spoj.com/problems/GCPC11J/)
 [Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/GCPC11J.cpp)
+
+---
