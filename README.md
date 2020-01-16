@@ -173,3 +173,10 @@ Follow-up: Can you do this in O(N) time and constant space?
 [Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem15.cpp)
 
 ---
+
+## Problem 16
+[PT07Y](https://www.spoj.com/problems/PT07Y/)
+
+[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem16.cpp)
+
+---
