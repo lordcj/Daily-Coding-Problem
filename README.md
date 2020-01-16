@@ -180,3 +180,10 @@ Follow-up: Can you do this in O(N) time and constant space?
 [Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem16.cpp)
 
 ---
+
+## Problem 17
+[PT07Z](https://www.spoj.com/problems/PT07Z/)
+
+[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem17.cpp)
+
+---
