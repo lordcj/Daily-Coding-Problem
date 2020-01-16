@@ -135,41 +135,41 @@ Follow-up: Can you do this in O(N) time and constant space?
 ## Problem 10
 [TREEORD](https://www.spoj.com/problems/TREEORD/)
 
-[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/TREEORD.cpp)
+[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem10.cpp)
 
 ---
 
 ## Problem  11
 [FIREESC](https://www.codechef.com/problems/FIRESC)
 
-[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/FIREESC.cpp)
+[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem11.cpp)
 
 ---
 
 ## Problem 12
 [BUGLIFE](https://www.spoj.com/problems/BUGLIFE/)
 
-[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/BUGLIFE.cpp)
+[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem12.cpp)
 
 ---
 
 ## Problem 13
 [CAM5](https://www.spoj.com/problems/CAM5/)
 
-[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/CAM5.cpp)
+[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem13.cpp)
 
 ---
 
 ## Problem 14
 [GCPC11J](https://www.spoj.com/problems/GCPC11J/)
 
-[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/GCPC11J.cpp)
+[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem14.cpp)
 
 ---
 
 ## Problem 15
 [KFSTB](https://www.spoj.com/problems/KFSTB/)
 
-[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/KFSTB.cpp)
+[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem15.cpp)
 
 ---
