@@ -187,3 +187,10 @@ Follow-up: Can you do this in O(N) time and constant space?
 [Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem17.cpp)
 
 ---
+
+## Problem 18
+[LABYR1](https://www.spoj.com/problems/LABYR1/)
+
+[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem18.cpp)
+
+---
