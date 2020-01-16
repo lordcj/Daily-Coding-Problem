@@ -167,3 +167,9 @@ Follow-up: Can you do this in O(N) time and constant space?
 
 ---
 
+## Problem 15
+[KFSTB](https://www.spoj.com/problems/KFSTB/)
+
+[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/KFSTB.cpp)
+
+---
