@@ -201,3 +201,10 @@ Follow-up: Can you do this in O(N) time and constant space?
 [Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem19.cpp)
 
 ---
+
+## Problem 20
+[SWEETS EATING](https://codeforces.com/problemset/problem/1253/C)
+
+[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem20.cpp)
+
+---
