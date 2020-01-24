@@ -153,34 +153,36 @@ struct custom_hash
     }
 };
 
+#include<bits/stdc++.h>
+
 int main(){
-    lo n,m,te;
+    long long n,m,te;
     cin>>n>>m;
-    vl ve;
-    REP(0,n){
+    vector<long long> ve;
+    for(long long i=0;i<n;i++){
         cin>>te;
-        ve.pb(te);
+        ve.push_back(te);
     }
-    sort(all(ve));
+    sort(ve.begin(), ve.end());
     //cout<<ve<<endl;
-    vl pr;
+    vector<long long> pr;
     te=0;
-    REP(0,n){
+    for(long long i=0;i<n;i++){
         te+=ve[i];
         pr.pb(te);
     }
     te=0;
-    vl ans;
-    REP(0,n){
+    vector<long long> ans;
+    for(long long i=0;i<n;i++){
         if(i<m){
             te=pr[i];
-            ans.pb(te);
+            ans.push_back(te);
         }else{
             te = pr[i]-pr[i-m];
             te += (ans[i-m]+pr[i-m]);
-            ans.pb(te);
+            ans.push_back(te);
         }
     }
-    cout<<ans;
+    for(long long i=0;i<n;i++)cout<<ans[i]<<" ";
     return 0;
 }
