@@ -250,7 +250,7 @@ The intervals are not necessarily sorted in any order.
 
 ---
 
-# Problem 192
+## Problem 192
 This problem was asked by Google.
 
 You are given an array of nonnegative integers. Let's say you start at the beginning of the array and are trying to advance to the end. You can advance at most, the number of steps that you're currently on. Determine whether you can get to the end of the array.
@@ -263,7 +263,7 @@ Given the array [1, 2, 1, 0, 0], we can't reach the end, so return false.
 
 ---
 
-# Problem 193
+## Problem 193
 This problem was asked by Affirm.
 
 Given a array of numbers representing the stock prices of a company in chronological order, write a function that calculates the maximum profit you could have made from buying and selling that stock. You're also given a number fee that represents a transaction fee for each buy and sell transaction.
