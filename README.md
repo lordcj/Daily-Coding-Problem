@@ -288,8 +288,6 @@ Suppose you are given two lists of n points, one list p1, p2, ..., pn on the lin
 
 ## Problem 195
 
-Good morning! Here's your coding interview problem for today.
-
 This problem was asked by Google.
 
 Let A be an N by M matrix in which every row and every column is sorted.
@@ -299,3 +297,23 @@ Given i1, j1, i2, and j2, compute the number of elements of M smaller than M[i1,
 [Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem195.cpp)
 
 ---
+
+## Problem 196
+
+This problem was asked by Apple.
+
+Given the root of a binary tree, find the most frequent subtree sum. The subtree sum of a node is the sum of all values under a node, including the node itself.
+
+For example, given the following tree:
+
+  5
+ / \
+2  -5
+Return 2 as it occurs twice: once as the left leaf, and once as the sum of 2 + 5 - 5.
+
+
+
+[Solution](https://github.com/lordcj/Daily_Coding_Problem/blob/master/Problem196.cpp)
+
+---
+
